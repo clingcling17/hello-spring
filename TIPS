@@ -1,0 +1,28 @@
+<shortcut>
+
+Alt + Insert - code completion
+    -> node new item에도 사용 가능 (ex> package)
+
+Alt + Enter - toggle preview
+
+Shift + Enter - start in below line
+
+Ctrl + Alt + V - Extract variable
+    -> Expression 입력 후 변수명을 생성
+
+Ctrl + Alt + Shift + T - Refactor this
+
+Ctrl + Shift + T - Create test
+
+Ctrl + Shift + / - 블록 주석
+
+Shift + F10 - 이전 실행 재생
+
+
+
+<Java>
+
+Optional.ofNullable()
+
+복사 후 Shift + F6으로 변수명만 rename
+
